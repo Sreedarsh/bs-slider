@@ -1,6 +1,6 @@
 <?php
 
-/**
+/***
  * Sreedarsh Bsslider
  *
  * @category      Sreedarsh
