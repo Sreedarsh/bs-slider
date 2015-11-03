@@ -11,6 +11,8 @@ Customizable controls and pointers
 Fully responsive and mobile friendly
 No programming knowledge needed
 
+*Installation description*
+
 After installing the extension and adding images,Just copy and paste the below blockcode to the cms page or static block:
 
 {{block type="bsslider/index" name="bsslider_index" template="bsslider/slider.phtml"}} 
@@ -20,7 +22,7 @@ Thats all needed,Your carousel is ready !!
 Magento v1.9.2.2 users,Please do the following steps
 
 
-1.Goto System > Permissions > Blocks 
-2.Add new Block 
+1. Goto System > Permissions > Blocks 
+2. Add new Block 
    Block Name-bsslider/index 
    Is Allowed-Yes 
