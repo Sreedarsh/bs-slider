@@ -109,7 +109,9 @@
                             <file name="bsslider.xml" hash="956affb1d3cf9fbf31981d5826c6fb33"/>
                         </dir>
                         <dir name="template">
+						  <dir name="bsslider">
                             <file name="slider.phtml" hash="956effb1d3cf9fbf31981d3826c6fb33"/>
+						  </dir>
                         </dir>
                     </dir>
                 </dir>
