@@ -1,13 +1,13 @@
 <?php
 
-/***
+/**
  * Sreedarsh Bsslider
  *
  * @category      Sreedarsh
  * @package       Sreedarsh_Bsslider
  */
 
-echo 'Installing Sreedarsh Bootstrap Slider V 1.0.1: ' . get_class($this) . "\n <br /> \n";
+echo 'Installing Sreedarsh Bootstrap Slider V 1.0.2: ' . get_class($this) . "\n <br /> \n";
 $installer = $this;
 $installer->startSetup();
 $installer->run("

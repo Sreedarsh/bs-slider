@@ -7,7 +7,7 @@
  * @package       Sreedarsh_Bsslider
  *
  -->  
-<layout version="1.0.1">   
+<layout version="1.0.2">   
     
 <!--    <cms_index_index>
         <reference name="head">           

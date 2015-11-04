@@ -8,7 +8,7 @@
  *
  -->
 
-<layout version="1.0.1">
+<layout version="1.0.2">
     <bsslider_adminhtml_bsslider_index>
         <reference name="content">
             <block type="bsslider/adminhtml_bsslider" name="bsslider.grid.container" />

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>sreedarsh_bsslider</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <stability>stable</stability>
     <license uri="http://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License (GPL)</license>
     <channel>community</channel>
@@ -31,8 +31,8 @@
             <email>sreedarsh88@gmail.com</email>
         </author>
     </authors>
-    <date>2015-10-30</date>
-    <time>18:01:51</time>
+    <date>2015-11-04</date>
+    <time>16:10:51</time>
     <contents>
         <target name="magecommunity">
             <dir name="Sreedarsh">
@@ -86,7 +86,7 @@
                     </dir>
                     <dir name="sql">
                         <dir name="bsslider_setup">
-                            <file name="mysql4-install-1.0.1.php" hash="86393d264d1f3122ffec971178c5dd50"/>
+                            <file name="mysql4-install-1.0.2.php" hash="86393d264d1f3122ffec971178c5dd50"/>
                         </dir>
                     </dir>
                 </dir>
