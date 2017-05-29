@@ -2,7 +2,7 @@
 
 /**
  * Sreedarsh Bsslider
- *
+ **
  * @category      Sreedarsh
  * @package       Sreedarsh_Bsslider
  */
